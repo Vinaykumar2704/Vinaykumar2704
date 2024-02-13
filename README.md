@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vinaykumar2704
-- 👀 I’m interested in Watching Movies  
 - 🌱 I’m currently learning Automation development
-- 💞️ I’m looking to collaborate on anything related to automation
+- 💞️ I’m looking to collaborate on anything related to automation.
 - 📫 How to reach me vinaykumar10026@gmail.com
 
 <!---
